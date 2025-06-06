@@ -1,4 +1,4 @@
-package com.example.git_brain
+package com.example.web_chat
 
 import io.flutter.embedding.android.FlutterActivity
 
